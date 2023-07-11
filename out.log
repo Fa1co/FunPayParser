@@ -1,0 +1,25 @@
+2023-07-11 23:19:03.443 | INFO     | __main__:<module>:183 - Бот начал работу
+2023-07-11 23:21:22.194 | INFO     | __main__:<module>:183 - Бот начал работу
+2023-07-11 23:22:59.937 | INFO     | __main__:<module>:183 - Бот начал работу
+2023-07-11 23:23:16.218 | ERROR    | __main__:<module>:187 - could not convert string to float: 'fwefw'
+2023-07-11 23:29:54.344 | INFO     | __main__:<module>:184 - Бот начал работу
+2023-07-11 23:35:46.785 | INFO     | __main__:<module>:190 - Бот начал работу
+2023-07-11 23:37:23.808 | INFO     | __main__:<module>:195 - Бот начал работу
+2023-07-11 23:37:38.473 | INFO     | __main__:<module>:195 - Бот начал работу
+2023-07-11 23:38:11.884 | INFO     | __main__:<module>:195 - Бот начал работу
+2023-07-11 23:39:18.836 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:39:21.252 | ERROR    | __main__:bot_actions:150 - A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message text is empty
+2023-07-11 23:39:49.957 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:47:37.875 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:48:15.886 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:48:29.145 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:48:30.477 | ERROR    | __main__:<module>:201 - 'datetime.date' object has no attribute 'split'
+2023-07-11 23:49:48.247 | INFO     | __main__:<module>:198 - Бот начал работу
+2023-07-11 23:49:51.706 | ERROR    | __main__:<module>:202 - 'datetime.date' object has no attribute 'split'
+2023-07-11 23:50:09.707 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:50:28.396 | INFO     | __main__:<module>:198 - Бот начал работу
+2023-07-11 23:50:39.573 | INFO     | __main__:<module>:198 - Бот начал работу
+2023-07-11 23:52:07.329 | INFO     | __main__:<module>:198 - Бот начал работу
+2023-07-11 23:52:39.804 | INFO     | __main__:<module>:197 - Бот начал работу
+2023-07-11 23:52:45.655 | ERROR    | __main__:bot_actions:143 - Incorrect number of bindings supplied. The current statement uses 5, and there are 4 supplied.
+2023-07-11 23:53:07.043 | INFO     | __main__:<module>:197 - Бот начал работу
